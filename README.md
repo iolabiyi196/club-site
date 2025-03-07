@@ -1,4 +1,4 @@
-# club-site
+# Club Site
 Meet up. Work out. Celebrate.
 
 Come join our vibrant community whose focus is training hard and enjoying local post-workout cuisine - guilt-free! 
